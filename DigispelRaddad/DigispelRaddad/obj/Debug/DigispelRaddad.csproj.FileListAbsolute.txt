@@ -1,0 +1,15 @@
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\obj\Debug\DigispelRaddad.csprojAssemblyReference.cache
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\obj\Debug\Interop.WMPLib.dll
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\obj\Debug\DigispelRaddad.csproj.ResolveComReference.cache
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\obj\Debug\Digipel.Form1.resources
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\obj\Debug\DigispelRaddad.Properties.Resources.resources
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\obj\Debug\DigispelRaddad.csproj.GenerateResource.cache
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\bin\Debug\DigispelRaddad.exe.config
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\bin\Debug\DigispelRaddad.exe
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\bin\Debug\DigispelRaddad.pdb
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\bin\Debug\Interop.WMPLib.dll
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\obj\Debug\DigispelRaddad.exe
+C:\Users\wilnor2\source\repos\DigispelRaddad\DigispelRaddad\obj\Debug\DigispelRaddad.pdb
